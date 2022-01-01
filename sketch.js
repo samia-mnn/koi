@@ -19,7 +19,7 @@ function draw() {
   textFont('Courier New');
   fill(82,100,240);
 
-  text("samia menon", 500, 80);
+  text("koi", 500, 80);
   myKoi.display();
   myotherkoi.display();
   myotherkoi.move();
